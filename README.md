@@ -1,3 +1,4 @@
-### watch2gether ###
+### Watch2gether ###
 
-### under supervision from Toni Barth at Hochschule Anhalt University of Applied Sciences ###
+## by Emil Petersen ##
+> under supervision from Toni Barth at Hochschule Anhalt University of Applied Sciences
